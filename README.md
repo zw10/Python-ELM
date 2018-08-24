@@ -103,6 +103,11 @@ Requirements
 
 Written using Python 2.7.3, numpy 1.6.1, scipy 0.10.1, scikit-learn 0.13.1 and ipython 0.12.1
 
+```diff
+- Python 2.7.3
++ Updated to Python 3
+```
+
 References
 ----------
 ```
