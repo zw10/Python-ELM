@@ -3,7 +3,7 @@ Updated to support Python 3. The original documentation is below, and all credit
 __Zao Wu__  
 
 
-Python-ELM v0.3
+Python3-ELM v0.3
 ===============
 
 ###### This is an implementation of the [Extreme Learning Machine](http://www.extreme-learning-machines.org) [1][2] in Python, based on [scikit-learn](http://scikit-learn.org).
