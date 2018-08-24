@@ -1,3 +1,8 @@
+Updated to support Python 3. The original documentation is below, and all credit to the original author.
+
+__Zao Wu__  
+
+
 Python-ELM v0.3
 ===============
 

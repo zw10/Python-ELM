@@ -31,7 +31,7 @@ from sklearn.utils.extmath import safe_sparse_dot
 from sklearn.base import BaseEstimator, ClassifierMixin, RegressorMixin
 from sklearn.preprocessing import LabelBinarizer
 
-from random_layer import RandomLayer, MLPRandomLayer
+from .random_layer import RandomLayer, MLPRandomLayer
 
 __all__ = ["ELMRegressor",
            "ELMClassifier",
